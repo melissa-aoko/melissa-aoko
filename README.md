@@ -11,6 +11,7 @@ Data Analyst | Software Engineering & Distributed Systems Student | Computer Sci
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=melissa-aoko&label=Profile%20views&color=0e75b6&style=flat" alt="melissa-aoko" />
 </p>
+
 - 🎓 Computer Science student specializing in **data analytics and distributed systems**
 - 📊 Passionate about **SQL, Power BI, data modeling, and business intelligence**
 - 🧠 Experienced in **building data pipelines, transforming datasets, and generating insights**
